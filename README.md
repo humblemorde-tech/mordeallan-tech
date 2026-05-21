@@ -21,7 +21,7 @@ Required variable: `MONGO_URL`
 
 Deploy the bot on your preferred platform.
 
-[![🚀 RENDER](https://img.shields.io/badge/🚀%20RENDER-1E90FF?style=for-the-badge)](https://render.com/deploy?repo=https://github.com/humblemorde-tech/your-repo-name)
+[![🚀 RENDER](https://img.shields.io/badge/🚀%20RENDER-1E90FF?style=for-the-badge)](https://render.com/deploy?repo=https://github.com/humblemorde-tech/Mordeallan-tech )
 [![🚀 RAILWAY](https://img.shields.io/badge/🚀%20RAILWAY-8A2BE2?style=for-the-badge)](https://railway.app/new/template?template=https://github.com/humblemorde-tech/your-repo-name)
 [![🚀 HEROKU](https://img.shields.io/badge/🚀%20HEROKU-FF00FF?style=for-the-badge)](https://heroku.com/deploy?template=https://github.com/humblemorde-tech/your-repo-name)
 
